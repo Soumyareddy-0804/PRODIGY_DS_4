@@ -1,6 +1,5 @@
 # 💬 Task-04: Twitter Sentiment Analysis Using Python
 
-![Sentiment Analysis Dashboard](https://github.com/YourUsername/RepoName/blob/main/task4_output_1.png) <!-- Replace with actual image path -->
 
 ## ✅ Task Objective
 
@@ -24,16 +23,16 @@ Dataset used: [Twitter Entity Sentiment Analysis](https://www.kaggle.com/dataset
 ## 📸 Visualizations
 
 ### 1️⃣ Overall EDA Dashboard
-![EDA Dashboard](https://github.com/YourUsername/RepoName/blob/main/task4_output_1.png)
+![EDA Dashboard](https://github.com/Soumyareddy-0804/PRODIGY_DS_4/blob/main/Day_4_Exploratory_data.png)
 
 ### 2️⃣ Sentiment Distribution by Entity (Sunburst)
-![Sunburst Chart](https://github.com/YourUsername/RepoName/blob/main/task4_output_2.png)
+![Sunburst Chart](https://github.com/Soumyareddy-0804/PRODIGY_DS_4/blob/main/Task_4_Sentiment_distribution.png)
 
 ### 3️⃣ Sentiment Heatmap
-![Entity-Sentiment Heatmap](https://github.com/YourUsername/RepoName/blob/main/task4_output_3.png)
+![Entity-Sentiment Heatmap](https://github.com/Soumyareddy-0804/PRODIGY_DS_4/blob/main/Task_4_Entity_vs_Sentiment_heatmap.png)
 
 ### 4️⃣ Word Clouds by Sentiment
-![WordClouds](https://github.com/YourUsername/RepoName/blob/main/task4_output_4.png)
+![WordClouds](https://github.com/Soumyareddy-0804/PRODIGY_DS_4/blob/main/Task_4_Word_cloud_Analysis.png)
 
 ---
 
